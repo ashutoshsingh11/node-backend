@@ -1,0 +1,13 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "Simple Node.js backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
